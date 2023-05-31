@@ -21,7 +21,7 @@ namespace Entero_Binario
             try
             {
                 time.Start();
-                Console.WriteLine("Primera version funciones de C#");
+                Console.WriteLine("Primera version usando funciones de C#");
                 Console.WriteLine("Ingrese un número entero:");
                         
                 binary = Convert.ToString(Int64.Parse(Console.ReadLine()),2);
@@ -36,7 +36,7 @@ namespace Entero_Binario
                 Console.WriteLine();
 
 
-                Console.WriteLine("Segunda version funciones creadas");
+                Console.WriteLine("Segunda version usando funciones propias");
                 time2.Start();
                 Console.WriteLine("Ingrese un número entero:");
                 number = Convert.ToInt64(Console.ReadLine());
