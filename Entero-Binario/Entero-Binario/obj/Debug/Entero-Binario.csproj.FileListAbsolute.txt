@@ -1,0 +1,8 @@
+D:\Trabajo\Ejercicios\Ejercicio-Numero-Binario\Entero-Binario\Entero-Binario\bin\Debug\Entero-Binario.exe.config
+D:\Trabajo\Ejercicios\Ejercicio-Numero-Binario\Entero-Binario\Entero-Binario\bin\Debug\Entero-Binario.exe
+D:\Trabajo\Ejercicios\Ejercicio-Numero-Binario\Entero-Binario\Entero-Binario\bin\Debug\Entero-Binario.pdb
+D:\Trabajo\Ejercicios\Ejercicio-Numero-Binario\Entero-Binario\Entero-Binario\obj\Debug\Entero-Binario.csproj.AssemblyReference.cache
+D:\Trabajo\Ejercicios\Ejercicio-Numero-Binario\Entero-Binario\Entero-Binario\obj\Debug\Entero-Binario.csproj.SuggestedBindingRedirects.cache
+D:\Trabajo\Ejercicios\Ejercicio-Numero-Binario\Entero-Binario\Entero-Binario\obj\Debug\Entero-Binario.csproj.CoreCompileInputs.cache
+D:\Trabajo\Ejercicios\Ejercicio-Numero-Binario\Entero-Binario\Entero-Binario\obj\Debug\Entero-Binario.exe
+D:\Trabajo\Ejercicios\Ejercicio-Numero-Binario\Entero-Binario\Entero-Binario\obj\Debug\Entero-Binario.pdb
